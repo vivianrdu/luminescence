@@ -351,3 +351,75 @@ Received Import Request.
   path: Assets/Sprites/Player/idle_west.png
   artifactKey: Guid(204c8205dcec64201b4603c4297d1eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Sprites/Player/idle_west.png using Guid(204c8205dcec64201b4603c4297d1eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16ca3cd51164a19ae5f974362c8ca50a') in 0.048679 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 184.367636 seconds.
+  path: Assets/Sprites/Player/walk_south.png
+  artifactKey: Guid(8fad627de458f4f7eb9987e055221dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/walk_south.png using Guid(8fad627de458f4f7eb9987e055221dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29c33b66cac96a205074ffae31c6300e') in 0.080999 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 43.703024 seconds.
+  path: Assets/Sprites/Player/walk_south.png
+  artifactKey: Guid(8fad627de458f4f7eb9987e055221dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/walk_south.png using Guid(8fad627de458f4f7eb9987e055221dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edcb6dc5dc4eeab832deaaf63fedbfb0') in 0.018353 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.468946 seconds.
+  path: Assets/Sprites/Player/walk_south.png
+  artifactKey: Guid(8fad627de458f4f7eb9987e055221dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/walk_south.png using Guid(8fad627de458f4f7eb9987e055221dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0ed4aff5fe7ff5c6c91b6c151c29cf9') in 0.056804 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 155.620255 seconds.
+  path: Assets/Sprites/Player/walk_north.png
+  artifactKey: Guid(10f04661408864c60aff9444b51fbf02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/walk_north.png using Guid(10f04661408864c60aff9444b51fbf02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28aa185a9dbaab8602444a821d97e31e') in 0.032479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.790593 seconds.
+  path: Assets/Sprites/Player/walk_north.png
+  artifactKey: Guid(10f04661408864c60aff9444b51fbf02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/walk_north.png using Guid(10f04661408864c60aff9444b51fbf02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39f48d08913be59d6962447d6575ae21') in 0.017612 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.884542 seconds.
+  path: Assets/Sprites/Player/walk_north.png
+  artifactKey: Guid(10f04661408864c60aff9444b51fbf02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/walk_north.png using Guid(10f04661408864c60aff9444b51fbf02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e15ddaf884fc3f446004d13d03d2d82') in 0.061151 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 305.661795 seconds.
+  path: Assets/Sprites/Player/walk_east.png
+  artifactKey: Guid(491c3dd44326845cfacfe8b994cc6300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/walk_east.png using Guid(491c3dd44326845cfacfe8b994cc6300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce8bb7ef75dd7be600c9cb930eb10fa0') in 0.183620 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.060581 seconds.
+  path: Assets/Sprites/Player/walk_east.png
+  artifactKey: Guid(491c3dd44326845cfacfe8b994cc6300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/walk_east.png using Guid(491c3dd44326845cfacfe8b994cc6300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96215308dc3905d785fce44475df8e05') in 0.012543 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.455984 seconds.
+  path: Assets/Sprites/Player/walk_east.png
+  artifactKey: Guid(491c3dd44326845cfacfe8b994cc6300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/walk_east.png using Guid(491c3dd44326845cfacfe8b994cc6300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a559da54311c34a2299e7c50d1cb668') in 0.058201 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 175.347487 seconds.
+  path: Assets/Sprites/Player/walk_west.png
+  artifactKey: Guid(40f03be9c1a184d878b332a0a08ce97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/walk_west.png using Guid(40f03be9c1a184d878b332a0a08ce97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea5b567eb89fe785406ff8705eba1603') in 0.043529 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.681453 seconds.
+  path: Assets/Sprites/Player/walk_west.png
+  artifactKey: Guid(40f03be9c1a184d878b332a0a08ce97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/walk_west.png using Guid(40f03be9c1a184d878b332a0a08ce97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8dd2f821b81d001a7252197a034abcd') in 0.018455 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.467785 seconds.
+  path: Assets/Sprites/Player/walk_west.png
+  artifactKey: Guid(40f03be9c1a184d878b332a0a08ce97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/walk_west.png using Guid(40f03be9c1a184d878b332a0a08ce97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b62636b6206050c09a522feac68a5395') in 0.051781 seconds 
