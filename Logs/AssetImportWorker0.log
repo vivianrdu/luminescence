@@ -137,3 +137,27 @@ Received Import Request.
   path: Assets/Animations/Firefly
   artifactKey: Guid(9937099ef2ec54b7eb9bb91bda6a7e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Animations/Firefly using Guid(9937099ef2ec54b7eb9bb91bda6a7e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9db9bcdc053a1b4ec6feaec9ec1b868') in 0.001262 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 649.804082 seconds.
+  path: Assets/Sprites/Tiles/Cobblestone_Tile.png
+  artifactKey: Guid(0c28b3320705f45739acf02639dc74af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Cobblestone_Tile.png using Guid(0c28b3320705f45739acf02639dc74af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '048b6af61ff328294a0f3cbbf06937bd') in 0.037416 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Sprites/Tiles/Grass_Tile.png
+  artifactKey: Guid(ac3b9937823804b3ebf99c751338e77d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Grass_Tile.png using Guid(ac3b9937823804b3ebf99c751338e77d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '175f88038940f534cc61f9305080c74b') in 0.016122 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 235.524112 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd854718df9ee2dff9d2c427c4e9d53b3') in 0.003571 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 80.841867 seconds.
+  path: Assets/Sprites/New Animation.anim
+  artifactKey: Guid(0dbdb400024de4f918214816551b4a64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Animation.anim using Guid(0dbdb400024de4f918214816551b4a64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2d60f124be3263a7324a0cd820282a6') in 0.007864 seconds 
