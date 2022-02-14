@@ -223,3 +223,131 @@ System memory in use after: 228.0 MB.
 Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3954.
 Total: 5.333056 ms (FindLiveObjects: 0.489762 ms CreateObjectMapping: 0.267147 ms MarkObjects: 4.063142 ms  DeleteObjects: 0.511444 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 124.879098 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(dd2f8bc52c5ba400fafcc3045f6dd4a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(dd2f8bc52c5ba400fafcc3045f6dd4a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd90609def47a5a625b609c74e4712871') in 0.012018 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.104268 seconds.
+  path: Assets/Animations/Player
+  artifactKey: Guid(b0692569860ab4b119e5dc3768bcba1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Player using Guid(b0692569860ab4b119e5dc3768bcba1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbe03e8d75623f3dc8ce05ffcb7a7809') in 0.004101 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.116207 seconds.
+  path: Assets/Animations/Player/idle_south.anim
+  artifactKey: Guid(7d9f2e21eb44248d6bd3437a8ec2e318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Player/idle_south.anim using Guid(7d9f2e21eb44248d6bd3437a8ec2e318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89c0a056ee918a1e95b9b5020c943afe') in 0.378077 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 179.276117 seconds.
+  path: Assets/Animations/Player/idle_south.anim
+  artifactKey: Guid(7d9f2e21eb44248d6bd3437a8ec2e318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Player/idle_south.anim using Guid(7d9f2e21eb44248d6bd3437a8ec2e318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09abec2f2184cc5f98b4e1f721ed03bf') in 0.025176 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.409710 seconds.
+  path: Assets/Animations/Player/Player.controller
+  artifactKey: Guid(f79b44aa81bf54b9eb2360e2580d73b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Player/Player.controller using Guid(f79b44aa81bf54b9eb2360e2580d73b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18c332f1325917e5bfde085cab6f1fa9') in 0.316205 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.020177 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.053 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 237.2 MB.
+System memory in use after: 236.7 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3958.
+Total: 5.429909 ms (FindLiveObjects: 0.754831 ms CreateObjectMapping: 0.439371 ms MarkObjects: 3.619331 ms  DeleteObjects: 0.590014 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005290 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.494 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 237.4 MB.
+System memory in use after: 236.9 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3962.
+Total: 4.256127 ms (FindLiveObjects: 0.373456 ms CreateObjectMapping: 0.274376 ms MarkObjects: 3.185193 ms  DeleteObjects: 0.421481 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 608.709849 seconds.
+  path: Assets/Sprites/Player/idle_north.png
+  artifactKey: Guid(e96afe1362d9647f9bcac5f043ed664d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/idle_north.png using Guid(e96afe1362d9647f9bcac5f043ed664d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f12d393046943441f404271e33e42f4e') in 0.274417 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.056817 seconds.
+  path: Assets/Sprites/Player/idle_north.png
+  artifactKey: Guid(e96afe1362d9647f9bcac5f043ed664d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/idle_north.png using Guid(e96afe1362d9647f9bcac5f043ed664d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0a70685c7929cb6242c59c5b386b672') in 0.012702 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.906977 seconds.
+  path: Assets/Sprites/Player/idle_north.png
+  artifactKey: Guid(e96afe1362d9647f9bcac5f043ed664d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/idle_north.png using Guid(e96afe1362d9647f9bcac5f043ed664d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7c0de4c277736a08e413cecdc4ab9ab') in 0.051248 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 186.813281 seconds.
+  path: Assets/Sprites/Player/idle_east.png
+  artifactKey: Guid(1d798e0236f3748819fb865885c0a482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/idle_east.png using Guid(1d798e0236f3748819fb865885c0a482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e69cedcbef400f5927d78ff1e5b61aa8') in 0.032650 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.964596 seconds.
+  path: Assets/Sprites/Player/idle_east.png
+  artifactKey: Guid(1d798e0236f3748819fb865885c0a482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/idle_east.png using Guid(1d798e0236f3748819fb865885c0a482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30c55f84ec6bb1be780fb2e443628342') in 0.014025 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.192701 seconds.
+  path: Assets/Sprites/Player/idle_east.png
+  artifactKey: Guid(1d798e0236f3748819fb865885c0a482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/idle_east.png using Guid(1d798e0236f3748819fb865885c0a482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bcc6d5bcfbc15191d46770aaa3c87b8') in 0.073087 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 144.410585 seconds.
+  path: Assets/Sprites/Player/idle_west.png
+  artifactKey: Guid(204c8205dcec64201b4603c4297d1eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/idle_west.png using Guid(204c8205dcec64201b4603c4297d1eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43ac2213326fca3c278e0308aa850fe5') in 0.083346 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.448122 seconds.
+  path: Assets/Sprites/Player/idle_west.png
+  artifactKey: Guid(204c8205dcec64201b4603c4297d1eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/idle_west.png using Guid(204c8205dcec64201b4603c4297d1eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f1628467e58eedb9a95a605bfcb00ad') in 0.013431 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.856656 seconds.
+  path: Assets/Sprites/Player/idle_west.png
+  artifactKey: Guid(204c8205dcec64201b4603c4297d1eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/idle_west.png using Guid(204c8205dcec64201b4603c4297d1eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16ca3cd51164a19ae5f974362c8ca50a') in 0.048679 seconds 
