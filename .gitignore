@@ -36,4 +36,4 @@ sysinfo.txt
 *.unitypackage
 
 # Mac related 
-.DS_Store
+*.DS_Store
