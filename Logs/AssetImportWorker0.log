@@ -12,26 +12,26 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-61954
+62369
 Successfully changed project path to: /Users/mkim4/Desktop/GameDesignDecal/project2_GDD
 /Users/mkim4/Desktop/GameDesignDecal/project2_GDD
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 106.19 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 103.85 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.1.7f1/Unity.app/Contents/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path /Users/mkim4/Desktop/GameDesignDecal/project2_GDD/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
-2022-02-14 14:44:56.380 Unity[16554:5944294] (null) preferred device: Apple M1 (high power)
-2022-02-14 14:44:56.380 Unity[16554:5944294] Metal devices available: 1
-2022-02-14 14:44:56.380 Unity[16554:5944294] 0: Apple M1 (high power)
-2022-02-14 14:44:56.380 Unity[16554:5944294] Using device Apple M1 (high power)
+2022-02-14 15:14:55.735 Unity[17161:5968767] (null) preferred device: Apple M1 (high power)
+2022-02-14 15:14:55.735 Unity[17161:5968767] Metal devices available: 1
+2022-02-14 15:14:55.735 Unity[17161:5968767] 0: Apple M1 (high power)
+2022-02-14 15:14:55.735 Unity[17161:5968767] Using device Apple M1 (high power)
 Initializing Metal device caps: Apple M1
 Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2021.1.7f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2021.1.7f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/Applications/Unity/Hub/Editor/2021.1.7f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56554
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56161
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/2021.1.7f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
@@ -39,19 +39,19 @@ Register platform support module: /Applications/Unity/Hub/Editor/2021.1.7f1/Unit
 Register platform support module: /Applications/Unity/Hub/Editor/2021.1.7f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2021.1.7f1/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2021.1.7f1/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
-Registered in 0.002476 seconds.
+Registered in 0.002442 seconds.
 Native extension for Lumin target not found
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 105.40 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 103.48 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.607 seconds
+- Completed reload, in  3.524 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002421 seconds.
+Registered in 0.003296 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image /Users/mkim4/Desktop/GameDesignDecal/project2_GDD/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image /Users/mkim4/Desktop/GameDesignDecal/project2_GDD/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
@@ -60,104 +60,68 @@ Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 98.58 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 98.45 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.020 seconds
+- Completed reload, in  2.079 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launching external process: /Applications/Unity/Hub/Editor/2021.1.7f1/Unity.app/Contents/Tools/UnityShaderCompiler
 Launched and connected shader compiler UnityShaderCompiler after 0.07 seconds
-Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3385 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 215.6 MB.
+System memory in use before: 215.7 MB.
 System memory in use after: 215.9 MB.
 
 Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3843.
-Total: 2.026958 ms (FindLiveObjects: 0.188959 ms CreateObjectMapping: 0.169041 ms MarkObjects: 1.599125 ms  DeleteObjects: 0.068833 ms)
+Total: 1.957334 ms (FindLiveObjects: 0.164416 ms CreateObjectMapping: 0.152625 ms MarkObjects: 1.575875 ms  DeleteObjects: 0.063417 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Sprites/firefly.png
-  artifactKey: Guid(94a226ee6ff314019a27fb750ab99856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/firefly.png using Guid(94a226ee6ff314019a27fb750ab99856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c490bb14d4cc4fa8ad0e6c31df697596') in 0.210955 seconds 
+  path: Assets/Sprites/Player/idle_east.png
+  artifactKey: Guid(1d798e0236f3748819fb865885c0a482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/idle_east.png using Guid(1d798e0236f3748819fb865885c0a482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bcc6d5bcfbc15191d46770aaa3c87b8') in 0.273006 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 45.356859 seconds.
-  path: Assets/Sprites/firefly.png
-  artifactKey: Guid(94a226ee6ff314019a27fb750ab99856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/firefly.png using Guid(94a226ee6ff314019a27fb750ab99856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f8bd8287f8d28a383d03cba6c2d7a3e') in 0.024075 seconds 
+  Time since last request: 0.000147 seconds.
+  path: Assets/Sprites/Player/idle_west.png
+  artifactKey: Guid(204c8205dcec64201b4603c4297d1eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/idle_west.png using Guid(204c8205dcec64201b4603c4297d1eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16ca3cd51164a19ae5f974362c8ca50a') in 0.025763 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 88.074670 seconds.
-  path: Assets/Sprites/firefly.png
-  artifactKey: Guid(94a226ee6ff314019a27fb750ab99856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/firefly.png using Guid(94a226ee6ff314019a27fb750ab99856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cc8c8584eaeb5211d83a7d8a3301f38') in 0.148473 seconds 
+  Time since last request: 0.000214 seconds.
+  path: Assets/Sprites/Player/idle_south.png
+  artifactKey: Guid(96de2d4e883354293aaabb39a6721735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/idle_south.png using Guid(96de2d4e883354293aaabb39a6721735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '273a804a1472bcdce9341be51a84be7c') in 0.020228 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 178.018055 seconds.
-  path: Assets/Sprites/Firefly.controller
-  artifactKey: Guid(97571883ae7384cf3bcaeb5b0a5f33c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Firefly.controller using Guid(97571883ae7384cf3bcaeb5b0a5f33c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a49632a8a44783c68244efd5cda7b20') in 0.088923 seconds 
+  Time since last request: 0.000158 seconds.
+  path: Assets/Sprites/Player/walk_east.png
+  artifactKey: Guid(491c3dd44326845cfacfe8b994cc6300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/walk_east.png using Guid(491c3dd44326845cfacfe8b994cc6300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a559da54311c34a2299e7c50d1cb668') in 0.016447 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 14.607966 seconds.
-  path: Assets/Sprites/firefly.png
-  artifactKey: Guid(94a226ee6ff314019a27fb750ab99856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/firefly.png using Guid(94a226ee6ff314019a27fb750ab99856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1fa82902df448708131b669dac3a50e') in 0.103936 seconds 
+  Time since last request: 0.000190 seconds.
+  path: Assets/Sprites/Player/idle_north.png
+  artifactKey: Guid(e96afe1362d9647f9bcac5f043ed664d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/idle_north.png using Guid(e96afe1362d9647f9bcac5f043ed664d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7c0de4c277736a08e413cecdc4ab9ab') in 0.015813 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 39.995834 seconds.
-  path: Assets/Sprites/firefly.png
-  artifactKey: Guid(94a226ee6ff314019a27fb750ab99856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/firefly.png using Guid(94a226ee6ff314019a27fb750ab99856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61789d8168784e0cbb674f3cf913a64e') in 0.057156 seconds 
+  Time since last request: 0.000165 seconds.
+  path: Assets/Sprites/Player/walk_north.png
+  artifactKey: Guid(10f04661408864c60aff9444b51fbf02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/walk_north.png using Guid(10f04661408864c60aff9444b51fbf02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e15ddaf884fc3f446004d13d03d2d82') in 0.019759 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 16.317229 seconds.
-  path: Assets/Sprites/Rock_Sprite.png
-  artifactKey: Guid(a3ed4141e38b24ba28dbde9ee05de0c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Rock_Sprite.png using Guid(a3ed4141e38b24ba28dbde9ee05de0c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfd5c592bd1d957b547e8366c13f1c7f') in 0.010947 seconds 
+  Time since last request: 0.000159 seconds.
+  path: Assets/Sprites/Player/walk_south.png
+  artifactKey: Guid(8fad627de458f4f7eb9987e055221dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/walk_south.png using Guid(8fad627de458f4f7eb9987e055221dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0ed4aff5fe7ff5c6c91b6c151c29cf9') in 0.017679 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 26.476012 seconds.
-  path: Assets/Sprites/Firefly.anim
-  artifactKey: Guid(8890c3edc23564588ba5500c97e79ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Firefly.anim using Guid(8890c3edc23564588ba5500c97e79ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8750fa6ceb30da407b9fcade0f61daac') in 0.067606 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 16.846511 seconds.
-  path: Assets/Animations/Firefly.controller
-  artifactKey: Guid(97571883ae7384cf3bcaeb5b0a5f33c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Firefly.controller using Guid(97571883ae7384cf3bcaeb5b0a5f33c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d352f711611bc22402ddd05e7a34627') in 0.004995 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 22.451206 seconds.
-  path: Assets/Animations/Firefly
-  artifactKey: Guid(9937099ef2ec54b7eb9bb91bda6a7e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animations/Firefly using Guid(9937099ef2ec54b7eb9bb91bda6a7e46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9db9bcdc053a1b4ec6feaec9ec1b868') in 0.001262 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 649.804082 seconds.
-  path: Assets/Sprites/Tiles/Cobblestone_Tile.png
-  artifactKey: Guid(0c28b3320705f45739acf02639dc74af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Tiles/Cobblestone_Tile.png using Guid(0c28b3320705f45739acf02639dc74af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '048b6af61ff328294a0f3cbbf06937bd') in 0.037416 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000237 seconds.
-  path: Assets/Sprites/Tiles/Grass_Tile.png
-  artifactKey: Guid(ac3b9937823804b3ebf99c751338e77d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Tiles/Grass_Tile.png using Guid(ac3b9937823804b3ebf99c751338e77d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '175f88038940f534cc61f9305080c74b') in 0.016122 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 235.524112 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd854718df9ee2dff9d2c427c4e9d53b3') in 0.003571 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 80.841867 seconds.
-  path: Assets/Sprites/New Animation.anim
-  artifactKey: Guid(0dbdb400024de4f918214816551b4a64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/New Animation.anim using Guid(0dbdb400024de4f918214816551b4a64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2d60f124be3263a7324a0cd820282a6') in 0.007864 seconds 
+  Time since last request: 0.000196 seconds.
+  path: Assets/Sprites/Player/walk_west.png
+  artifactKey: Guid(40f03be9c1a184d878b332a0a08ce97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/walk_west.png using Guid(40f03be9c1a184d878b332a0a08ce97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b62636b6206050c09a522feac68a5395') in 0.015237 seconds 
