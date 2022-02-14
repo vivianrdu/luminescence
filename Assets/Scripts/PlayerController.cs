@@ -14,9 +14,6 @@ public class PlayerController : MonoBehaviour
     Rigidbody2D PlayerRB;
     #endregion
 
-    #region Unity_functions
-    #endregion
-
     #region Other_variables
     Vector2 currDirection;
     #endregion
@@ -25,9 +22,11 @@ public class PlayerController : MonoBehaviour
     Animator anim;
     #endregion
 
+    #region Unity_functions
     private void Awake()
     {
         PlayerRB = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
     }
 
     private void Update()
@@ -37,6 +36,7 @@ public class PlayerController : MonoBehaviour
 
         Move();
     }
+    #endregion
 
     #region Movement_functions
     private void Move()
@@ -65,6 +65,7 @@ public class PlayerController : MonoBehaviour
         else
         {
             PlayerRB.velocity = Vector2.zero;
+            anim.SetBool("Moving", false);
         }
         anim.SetFloat("DirX", currDirection.x);
         anim.SetFloat("DirY", currDirection.y);
