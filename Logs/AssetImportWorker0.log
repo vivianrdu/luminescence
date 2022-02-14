@@ -101,3 +101,125 @@ Received Import Request.
   path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
   artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1280cc7be10b532b2897fc8654f95d3') in 0.072033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1155.593095 seconds.
+  path: Assets/Sprites
+  artifactKey: Guid(f5e599a26a4d041b99746318b9ab8bbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(f5e599a26a4d041b99746318b9ab8bbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f5d8324f15f0fe7af796d43925dba5a') in 0.007784 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.155721 seconds.
+  path: Assets/Sprites/Player
+  artifactKey: Guid(d5e9da1535dfc499f95d52fed458501d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player using Guid(d5e9da1535dfc499f95d52fed458501d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b953605a6d41efb11e8533324abd6011') in 0.003381 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 216.755600 seconds.
+  path: Assets/Sprites/Player/idle_south.png
+  artifactKey: Guid(96de2d4e883354293aaabb39a6721735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/idle_south.png using Guid(96de2d4e883354293aaabb39a6721735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'febd1901f37663ee1ac52edadf93687c') in 1.749259 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.964659 seconds.
+  path: Assets/Sprites/Player/idle_south.png
+  artifactKey: Guid(96de2d4e883354293aaabb39a6721735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/idle_south.png using Guid(96de2d4e883354293aaabb39a6721735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70173711c5e79c53dbb29ff840eb2444') in 0.016041 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.623289 seconds.
+  path: Assets/Sprites/Player/idle_south.png
+  artifactKey: Guid(96de2d4e883354293aaabb39a6721735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/idle_south.png using Guid(96de2d4e883354293aaabb39a6721735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '273a804a1472bcdce9341be51a84be7c') in 0.050203 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 232.995425 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa27944bdea339c97c39027c7eea529c') in 0.019151 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 186.375107 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(fb6b658e78eb144ceb21d29f2910c81c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(fb6b658e78eb144ceb21d29f2910c81c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44680687b6dffa47e9fec470735a234c') in 0.006057 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.592406 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(0ea3773c91f24444899a8b2a34ee2f2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(0ea3773c91f24444899a8b2a34ee2f2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdc8a0001f735d7a01225f8610a9e156') in 0.795686 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004336 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.738 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.93 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3383 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 228.5 MB.
+System memory in use after: 227.9 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3950.
+Total: 9.313832 ms (FindLiveObjects: 0.836914 ms CreateObjectMapping: 0.477740 ms MarkObjects: 7.503410 ms  DeleteObjects: 0.492683 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.757560 seconds.
+  path: Assets/Scenes/StartMenu.unity
+  artifactKey: Guid(1e245267de9904fa380202160cf71e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/StartMenu.unity using Guid(1e245267de9904fa380202160cf71e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5b43f9cd73a02abb596442c5a123ce2') in 0.040045 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 41.869168 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bad0bea6199e82805971669b61895c9') in 0.003834 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 327.613906 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(0ea3773c91f24444899a8b2a34ee2f2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(0ea3773c91f24444899a8b2a34ee2f2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2fd113480b252428bff63454a9d5cb0') in 0.092114 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 65.895196 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(0ea3773c91f24444899a8b2a34ee2f2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(0ea3773c91f24444899a8b2a34ee2f2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3fa5fb217a7c1212c9b7ccd2798e82b') in 0.006194 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.232150 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(0ea3773c91f24444899a8b2a34ee2f2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(0ea3773c91f24444899a8b2a34ee2f2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7b27ef3ae263075957396b394c0a33d') in 0.008107 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003156 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.054 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.06 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3379 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 228.5 MB.
+System memory in use after: 228.0 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3954.
+Total: 5.333056 ms (FindLiveObjects: 0.489762 ms CreateObjectMapping: 0.267147 ms MarkObjects: 4.063142 ms  DeleteObjects: 0.511444 ms)
+
