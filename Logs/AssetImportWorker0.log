@@ -131,3 +131,9 @@ Received Import Request.
   path: Assets/Animations/Button
   artifactKey: Guid(59fb863530fdf498593b6393756edb53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Animations/Button using Guid(59fb863530fdf498593b6393756edb53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c315dd37117621f72886783913f622e3') in 0.001280 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4472.917581 seconds.
+  path: Assets/Animations/Firefly/Firefly_flying.anim
+  artifactKey: Guid(b2eb5820ae365476786566de227caa6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Firefly/Firefly_flying.anim using Guid(b2eb5820ae365476786566de227caa6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23e829c9d66c85ca8d2481298b6922a5') in 0.107350 seconds 
