@@ -72,6 +72,13 @@
       "source": "builtin",
       "dependencies": {}
     },
+    "com.unity.cinemachine": {
+      "version": "https://github.com/Unity-Technologies/com.unity.cinemachine.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "9012226c672f06bfcc4b03e18e9e39a45abf3ef9"
+    },
     "com.unity.collab-proxy": {
       "version": "1.3.9",
       "depth": 0,
