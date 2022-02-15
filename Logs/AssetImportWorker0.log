@@ -531,3 +531,121 @@ System memory in use after: 229.1 MB.
 Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3954.
 Total: 5.341489 ms (FindLiveObjects: 0.380975 ms CreateObjectMapping: 0.338201 ms MarkObjects: 4.407750 ms  DeleteObjects: 0.212580 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010313 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.321 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3369 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 229.2 MB.
+System memory in use after: 229.3 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3958.
+Total: 4.516638 ms (FindLiveObjects: 0.448936 ms CreateObjectMapping: 0.275909 ms MarkObjects: 3.551743 ms  DeleteObjects: 0.238644 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 981.472479 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62d2a01eeed8fd287f23252b8b5034ac') in 0.038793 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 212.489003 seconds.
+  path: Assets/Sprites/Tiles/Cobblestone_Tile.png
+  artifactKey: Guid(0c28b3320705f45739acf02639dc74af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Cobblestone_Tile.png using Guid(0c28b3320705f45739acf02639dc74af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9db9981330d1a224350cf1b0ae57818f') in 0.238054 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.158909 seconds.
+  path: Assets/Sprites/Tiles/Cobblestone_Tile.png
+  artifactKey: Guid(0c28b3320705f45739acf02639dc74af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Cobblestone_Tile.png using Guid(0c28b3320705f45739acf02639dc74af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe2e659bf943ea257e9bc1a22b7426fe') in 0.049812 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 281.807429 seconds.
+  path: Assets/Sprites/Tiles/Wall.png
+  artifactKey: Guid(f9bea19df57ef4537b38b6ee3ffe2426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Wall.png using Guid(f9bea19df57ef4537b38b6ee3ffe2426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64eb90ec44e28d27418b5d1d2fdeeff9') in 0.172790 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 113.530588 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9fb87d22f6c515a6ba28ea1de11869c') in 0.030485 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015810 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.045 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.93 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3371 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 231.3 MB.
+System memory in use after: 231.4 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 4007.
+Total: 4.563467 ms (FindLiveObjects: 0.508557 ms CreateObjectMapping: 0.307700 ms MarkObjects: 3.543587 ms  DeleteObjects: 0.201511 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011919 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.15 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.144 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3369 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 231.4 MB.
+System memory in use after: 231.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4011.
+Total: 5.509821 ms (FindLiveObjects: 0.687726 ms CreateObjectMapping: 0.405712 ms MarkObjects: 4.261363 ms  DeleteObjects: 0.152801 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012931 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.806 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3369 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 231.7 MB.
+System memory in use after: 231.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4015.
+Total: 9.372373 ms (FindLiveObjects: 0.798935 ms CreateObjectMapping: 0.656605 ms MarkObjects: 7.694454 ms  DeleteObjects: 0.220178 ms)
+

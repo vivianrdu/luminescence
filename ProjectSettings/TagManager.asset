@@ -42,9 +42,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Player
-    uniqueID: 2803020435
+  - name: Environment
+    uniqueID: 3615004309
     locked: 0
   - name: Firefly
     uniqueID: 2293377989
+    locked: 0
+  - name: Player
+    uniqueID: 2803020435
     locked: 0
