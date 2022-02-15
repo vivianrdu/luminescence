@@ -649,3 +649,25 @@ System memory in use after: 231.8 MB.
 Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4015.
 Total: 9.372373 ms (FindLiveObjects: 0.798935 ms CreateObjectMapping: 0.656605 ms MarkObjects: 7.694454 ms  DeleteObjects: 0.220178 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008390 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.709 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3369 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 231.9 MB.
+System memory in use after: 232.0 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 4019.
+Total: 4.781216 ms (FindLiveObjects: 0.639692 ms CreateObjectMapping: 0.432730 ms MarkObjects: 3.528436 ms  DeleteObjects: 0.178806 ms)
+
