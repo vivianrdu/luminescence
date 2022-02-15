@@ -62,8 +62,7 @@ public class Firefly : MonoBehaviour
         {
             if (hit.transform.CompareTag("Player"))
             {
-                //move towards player
-                Move();
+                
                 // if player is in FireflyRB radius disappear
                 Destroy(this.gameObject);
                 Debug.Log("Firefly collected");
