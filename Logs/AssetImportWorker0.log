@@ -725,3 +725,55 @@ System memory in use after: 275.9 MB.
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4413.
 Total: 1.817541 ms (FindLiveObjects: 0.187667 ms CreateObjectMapping: 0.091167 ms MarkObjects: 1.494083 ms  DeleteObjects: 0.043750 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004492 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/mkim4/Desktop/GameDesignDecal/project2_GDD/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/mkim4/Desktop/GameDesignDecal/project2_GDD/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.025 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3526 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 276.0 MB.
+System memory in use after: 276.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4429.
+Total: 1.821334 ms (FindLiveObjects: 0.189334 ms CreateObjectMapping: 0.087708 ms MarkObjects: 1.486292 ms  DeleteObjects: 0.057417 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002567 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/mkim4/Desktop/GameDesignDecal/project2_GDD/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/mkim4/Desktop/GameDesignDecal/project2_GDD/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.987 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3526 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 276.2 MB.
+System memory in use after: 276.5 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4445.
+Total: 1.720833 ms (FindLiveObjects: 0.171125 ms CreateObjectMapping: 0.086916 ms MarkObjects: 1.420875 ms  DeleteObjects: 0.041250 ms)
+
