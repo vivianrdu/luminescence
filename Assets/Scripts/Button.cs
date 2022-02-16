@@ -4,30 +4,56 @@ using UnityEngine;
 
 public class Button : MonoBehaviour
 {
-    private float radius;
+    public float radius;
     public Animator anim;
-    public GameObject Rock;
+    public Transform rock;
 
-    #region Animation_functions
-    private void PushButton()
+    private void Update()
     {
-        RaycastHit2D[] hits = Physics2D.CircleCastAll(transform.position, radius, Vector2.zero);
-        foreach (RaycastHit2D hit in hits)
+        // check if we know where rock is
+        if (rock == null)
         {
-            if (hit.transform.CompareTag("Rock"))
+            return;
+        }
+        else
+        {
+            RaycastHit2D[] hits = Physics2D.CircleCastAll(transform.position, radius, Vector2.zero);
+            foreach (RaycastHit2D hit in hits)
             {
-                GetComponent<Animator>().SetBool("pushed", true);
+                if (hit.transform.CompareTag("Rock"))
+                {
+                    GetComponent<Animator>().SetBool("pushed", true);
+                }
+                else
+                {
+                    GetComponent<Animator>().SetBool("pushed", false);
+                }
             }
         }
-        Destroy(this.gameObject);
     }
+    //#region Animation_functions
+    //private void PushButton()
+    //{
+    //    RaycastHit2D[] hits = Physics2D.CircleCastAll(transform.position, radius, Vector2.zero);
+    //    foreach (RaycastHit2D hit in hits)
+    //    {
+    //        if (hit.transform.CompareTag("Rock"))
+    //        {
+    //            GetComponent<Animator>().SetBool("pushed", true);
+    //        }
+    //        else
+    //        {
+    //            GetComponent<Animator>().SetBool("pushed", false);
+    //        }
+    //    }
+    //}
 
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.transform.CompareTag("Rock"))
-        {
-            PushButton();
-        }
-    }
-    #endregion
+    //private void OnCollisionEnter2D(Collision2D collision)
+    //{
+    //    if (collision.transform.CompareTag("Rock"))
+    //    {
+    //        PushButton();
+    //    }
+    //}
+    //#endregion
 }
