@@ -1,18 +1,20 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using UnityEngine.EventSystems;
 
 public class LevelChanger : MonoBehaviour
 {
     public Animator animator;
-    public Button yourButton;
+    public Button triggerButton;
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
+        Vector3 mousePos = Input.mousePosition;
+        if (Input.GetMouseButtonDown(0) && (mousePos.x > 738) && (mousePos.x < 915)
+            && (mousePos.y > 200) && (mousePos.y < 300))
         {
             FadeToLevel();
         }

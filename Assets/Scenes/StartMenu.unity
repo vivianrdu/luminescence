@@ -378,7 +378,7 @@ GameObject:
   - component: {fileID: 248872980}
   m_Layer: 5
   m_Name: StartButton
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -396,7 +396,7 @@ RectTransform:
   m_Children:
   - {fileID: 693628382}
   m_Father: {fileID: 298768244}
-  m_RootOrder: 2
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -447,9 +447,21 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1286577953891378084, guid: f8dc053b792474551ba3524b9a2edfc7, type: 3}
+      - m_Target: {fileID: 1684436821}
         m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
         m_MethodName: startGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: LevelChanger, Assembly-CSharp
+        m_MethodName: FadeToLevel
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -509,6 +521,7 @@ GameObject:
   - component: {fileID: 298768243}
   - component: {fileID: 298768242}
   - component: {fileID: 298768241}
+  - component: {fileID: 298768245}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -590,11 +603,11 @@ RectTransform:
   m_Children:
   - {fileID: 1093264074}
   - {fileID: 1403134560}
-  - {fileID: 248872979}
   - {fileID: 1385146198}
   - {fileID: 1761320865}
   - {fileID: 2094897935}
   - {fileID: 2137254789}
+  - {fileID: 248872979}
   - {fileID: 1320743781}
   m_Father: {fileID: 350759665}
   m_RootOrder: 0
@@ -604,6 +617,18 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!225 &298768245
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 298768240}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
 --- !u!1 &350759663
 GameObject:
   m_ObjectHideFlags: 0
@@ -669,7 +694,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 350759664}
-  yourButton: {fileID: 0}
+  triggerButton: {fileID: 0}
 --- !u!1 &483810643
 GameObject:
   m_ObjectHideFlags: 0
@@ -1393,7 +1418,7 @@ RectTransform:
   m_Children:
   - {fileID: 1147495688}
   m_Father: {fileID: 298768244}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1557,6 +1582,17 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1503246880}
   m_CullTransparentMesh: 1
+--- !u!114 &1684436821 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1286577953891378084, guid: f8dc053b792474551ba3524b9a2edfc7, type: 3}
+  m_PrefabInstance: {fileID: 3147078783298972432}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7df06455a691b4ecdaad85171bf4d862, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1761320864
 GameObject:
   m_ObjectHideFlags: 0
@@ -1588,7 +1624,7 @@ RectTransform:
   m_Children:
   - {fileID: 1092421788}
   m_Father: {fileID: 298768244}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1664,7 +1700,7 @@ RectTransform:
   m_Children:
   - {fileID: 1041539354}
   m_Father: {fileID: 298768244}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1740,7 +1776,7 @@ RectTransform:
   m_Children:
   - {fileID: 169554982}
   m_Father: {fileID: 298768244}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
