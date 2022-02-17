@@ -1601,3 +1601,283 @@ Received Import Request.
   path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
   artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7278487de4166d09f2f6cab673e7fc4') in 0.042988 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 615.721696 seconds.
+  path: Assets/Scenes/EndCutscene.unity
+  artifactKey: Guid(29fba0685fc894a088b8cee2cf852e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/EndCutscene.unity using Guid(29fba0685fc894a088b8cee2cf852e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0adfbdcf23885d7b7937228ab5863ea7') in 0.015142 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.415686 seconds.
+  path: Assets/Scenes/StartMenu.unity
+  artifactKey: Guid(1e245267de9904fa380202160cf71e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/StartMenu.unity using Guid(1e245267de9904fa380202160cf71e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf6ebb74922dcdbb64f5453622f8dca9') in 0.004481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 47.130664 seconds.
+  path: Assets/Scenes/EndCutscene.unity
+  artifactKey: Guid(29fba0685fc894a088b8cee2cf852e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/EndCutscene.unity using Guid(29fba0685fc894a088b8cee2cf852e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48e658c6bfe98eb3b541b3bfe4233241') in 0.006791 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012407 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.12 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.770 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.16 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4589 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 326.8 MB.
+System memory in use after: 327.2 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 6339.
+Total: 8.589699 ms (FindLiveObjects: 0.770669 ms CreateObjectMapping: 0.700200 ms MarkObjects: 6.912997 ms  DeleteObjects: 0.203620 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 567.441076 seconds.
+  path: Assets/New Animation.anim
+  artifactKey: Guid(46428d74970e04e43ba893d594ff1352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Animation.anim using Guid(46428d74970e04e43ba893d594ff1352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c41a7946b9dcac10d303977550baf7e3') in 0.443336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 429.588086 seconds.
+  path: Assets/Animations/LevelChanger.controller
+  artifactKey: Guid(c83237043e2c14c0fbee1cd9ceca90d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/LevelChanger.controller using Guid(c83237043e2c14c0fbee1cd9ceca90d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '204cb7d560cd3a861f0a0656e42203ee') in 0.392442 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 46.660201 seconds.
+  path: Assets/Animations/FadeOut.anim
+  artifactKey: Guid(017ae48398806492cb0c3c5346dff3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/FadeOut.anim using Guid(017ae48398806492cb0c3c5346dff3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab7f5a6ce67d67a72c2b6a9b8c4e7648') in 0.023702 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011674 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.300 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4587 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 336.1 MB.
+System memory in use after: 336.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 6355.
+Total: 15.203889 ms (FindLiveObjects: 1.534418 ms CreateObjectMapping: 0.975083 ms MarkObjects: 11.317464 ms  DeleteObjects: 1.367889 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 21320.245233 seconds.
+  path: Assets/Animations/FadeIn.anim
+  artifactKey: Guid(41a78ae39d24f4d3eb6584f0330e5338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/FadeIn.anim using Guid(41a78ae39d24f4d3eb6584f0330e5338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a437ea3c18dd60aa4c3730f166e4168d') in 0.051198 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.521066 seconds.
+  path: Assets/Animations/FadeIn.anim
+  artifactKey: Guid(41a78ae39d24f4d3eb6584f0330e5338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/FadeIn.anim using Guid(41a78ae39d24f4d3eb6584f0330e5338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2899dd1b02aaed36d732d82d4c4e09be') in 0.015680 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.052540 seconds.
+  path: Assets/Animations/FadeOut.anim
+  artifactKey: Guid(017ae48398806492cb0c3c5346dff3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/FadeOut.anim using Guid(017ae48398806492cb0c3c5346dff3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e5cb36a186f05fccb7ff6f5cd3e3d90') in 0.010699 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.918565 seconds.
+  path: Assets/Animations/FadeOut.anim
+  artifactKey: Guid(017ae48398806492cb0c3c5346dff3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/FadeOut.anim using Guid(017ae48398806492cb0c3c5346dff3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ba1e4df7def4ba7e611c32c6255a0ef') in 0.011258 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004795 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 3.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.503 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 3.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4588 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 336.4 MB.
+System memory in use after: 336.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 6372.
+Total: 115.882355 ms (FindLiveObjects: 24.386789 ms CreateObjectMapping: 9.250039 ms MarkObjects: 80.671181 ms  DeleteObjects: 1.569334 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 202.907554 seconds.
+  path: Assets/Scripts/LevelChanger.cs
+  artifactKey: Guid(6ffcd30d7093d4b81bb9280617853750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LevelChanger.cs using Guid(6ffcd30d7093d4b81bb9280617853750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '058ea2c113e2529319a0be321ef395cb') in 0.070174 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004696 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.06 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.126 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4588 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 336.8 MB.
+System memory in use after: 337.2 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 6388.
+Total: 11.391607 ms (FindLiveObjects: 1.765884 ms CreateObjectMapping: 0.839633 ms MarkObjects: 6.858112 ms  DeleteObjects: 1.924822 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 383.557292 seconds.
+  path: Assets/Scripts/LevelChanger.cs
+  artifactKey: Guid(6ffcd30d7093d4b81bb9280617853750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LevelChanger.cs using Guid(6ffcd30d7093d4b81bb9280617853750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91d826b353dd159dd6a9dab2cce07d99') in 0.039870 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011544 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.853 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4588 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 337.2 MB.
+System memory in use after: 337.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 6404.
+Total: 14.154047 ms (FindLiveObjects: 1.098631 ms CreateObjectMapping: 0.674983 ms MarkObjects: 12.000609 ms  DeleteObjects: 0.377804 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009274 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.14 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.454 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4588 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 337.5 MB.
+System memory in use after: 337.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 6420.
+Total: 7.223737 ms (FindLiveObjects: 0.728346 ms CreateObjectMapping: 0.430652 ms MarkObjects: 4.840124 ms  DeleteObjects: 1.223040 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 214.828884 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38fb082274db588dd11991854ec65aee') in 1.856911 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b14e70c7d5c7dea27e9a9afe4ebd4db') in 0.172848 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000520 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9de5488ddf2447b222076e8763a07a8d') in 0.046264 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000888 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88091b7af37ac5cb7b2a0bf35b1ea3a7') in 0.108381 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005329 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 2.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.891 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4590 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 340.2 MB.
+System memory in use after: 340.6 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 6504.
+Total: 5.755528 ms (FindLiveObjects: 0.789100 ms CreateObjectMapping: 0.487259 ms MarkObjects: 4.323465 ms  DeleteObjects: 0.154088 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004393 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.279 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4588 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 340.5 MB.
+System memory in use after: 340.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 6520.
+Total: 5.652148 ms (FindLiveObjects: 0.730992 ms CreateObjectMapping: 0.451563 ms MarkObjects: 4.294017 ms  DeleteObjects: 0.173533 ms)
+
