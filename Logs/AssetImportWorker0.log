@@ -1,85 +1,141 @@
 Using pre-set license
 
  COMMAND LINE ARGUMENTS:
-/Applications/Unity/Hub/Editor/2021.1.7f1/Unity.app/Contents/MacOS/Unity
+/Applications/Unity/Unity.app/Contents/MacOS/Unity
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-/Users/mkim4/Desktop/GameDesignDecal/project2_GDD
+/Users/viviandu/Desktop/Unity Projects/Project2
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-55518
-Successfully changed project path to: /Users/mkim4/Desktop/GameDesignDecal/project2_GDD
-/Users/mkim4/Desktop/GameDesignDecal/project2_GDD
+58262
+Successfully changed project path to: /Users/viviandu/Desktop/Unity Projects/Project2
+/Users/viviandu/Desktop/Unity Projects/Project2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 110.15 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 218.99 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
-[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.1.7f1/Unity.app/Contents/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path /Users/mkim4/Desktop/GameDesignDecal/project2_GDD/Assets
+[Subsystems] Discovering subsystems at path /Applications/Unity/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/viviandu/Desktop/Unity Projects/Project2/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
-2022-02-15 17:24:46.160 Unity[12099:253012] (null) preferred device: Apple M1 (high power)
-2022-02-15 17:24:46.160 Unity[12099:253012] Metal devices available: 1
-2022-02-15 17:24:46.160 Unity[12099:253012] 0: Apple M1 (high power)
-2022-02-15 17:24:46.160 Unity[12099:253012] Using device Apple M1 (high power)
-Initializing Metal device caps: Apple M1
+2022-02-16 21:19:41.163 Unity[24407:1382120] Color LCD preferred device: Intel(R) UHD Graphics 617 (low power)
+2022-02-16 21:19:41.163 Unity[24407:1382120] Metal devices available: 1
+2022-02-16 21:19:41.163 Unity[24407:1382120] 0: Intel(R) UHD Graphics 617 (low power)
+2022-02-16 21:19:41.164 Unity[24407:1382120] Using device Intel(R) UHD Graphics 617 (low power)
+Initializing Metal device caps: Intel(R) UHD Graphics 617
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Initialize mono
-Mono path[0] = '/Applications/Unity/Hub/Editor/2021.1.7f1/Unity.app/Contents/Managed'
-Mono path[1] = '/Applications/Unity/Hub/Editor/2021.1.7f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = '/Applications/Unity/Hub/Editor/2021.1.7f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56099
+Mono path[0] = '/Applications/Unity/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56407
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: /Applications/Unity/Hub/Editor/2021.1.7f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /Applications/Unity/Hub/Editor/2021.1.7f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Register platform support module: /Applications/Unity/Hub/Editor/2021.1.7f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Register platform support module: /Applications/Unity/Hub/Editor/2021.1.7f1/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Register platform support module: /Applications/Unity/Hub/Editor/2021.1.7f1/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
-Registered in 0.002534 seconds.
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.003738 seconds.
 Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 111.30 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 316.74 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.959 seconds
+- Completed reload, in  8.222 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003472 seconds.
+Registered in 0.008461 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image /Users/mkim4/Desktop/GameDesignDecal/project2_GDD/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /Users/mkim4/Desktop/GameDesignDecal/project2_GDD/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
-Native extension for Lumin target not found
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
 Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 101.38 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 233.54 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.226 seconds
+- Completed reload, in  2.969 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launching external process: /Applications/Unity/Hub/Editor/2021.1.7f1/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.07 seconds
-Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launching external process: /Applications/Unity/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.04 seconds
+Refreshing native plugins compatible for Editor in 1.31 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3550 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 223.0 MB.
-System memory in use after: 223.2 MB.
+Unloading 4661 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 264.2 MB.
+System memory in use after: 264.3 MB.
 
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 4007.
-Total: 2.024625 ms (FindLiveObjects: 0.178500 ms CreateObjectMapping: 0.090916 ms MarkObjects: 1.689083 ms  DeleteObjects: 0.064959 ms)
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 5117.
+Total: 4.708962 ms (FindLiveObjects: 0.451174 ms CreateObjectMapping: 0.329318 ms MarkObjects: 3.743259 ms  DeleteObjects: 0.183697 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Sprites/Tiles/Wall.png
-  artifactKey: Guid(f9bea19df57ef4537b38b6ee3ffe2426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Tiles/Wall.png using Guid(f9bea19df57ef4537b38b6ee3ffe2426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64eb90ec44e28d27418b5d1d2fdeeff9') in 0.283396 seconds 
+  path: Assets/Scripts/GameManager.cs
+  artifactKey: Guid(7df06455a691b4ecdaad85171bf4d862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameManager.cs using Guid(7df06455a691b4ecdaad85171bf4d862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd61b4bc7cd1b01ecc08dd1b6e6fa1dba') in 0.719211 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/Tilemap/All.prefab
+  artifactKey: Guid(c68c52c4ceb094f6989826473a05fd25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/All.prefab using Guid(c68c52c4ceb094f6989826473a05fd25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7a7810c6ae9fb9634cc33f6edb2777a') in 2.749932 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000472 seconds.
+  path: Assets/Sprites/bat.png
+  artifactKey: Guid(3de0fe2403d814132a4e1290f217f704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bat.png using Guid(3de0fe2403d814132a4e1290f217f704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efd6211599f50362a33a10e5b5af83db') in 2.235408 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 59.231593 seconds.
+  path: Assets/Tilemap/Grass_Tile.asset
+  artifactKey: Guid(ce5ab243825924c3aa6aa983a85bdd88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/Grass_Tile.asset using Guid(ce5ab243825924c3aa6aa983a85bdd88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12f2a7d35294b17bea46aa5367458785') in 0.961900 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 74.135944 seconds.
+  path: Assets/Prefabs/Button.prefab
+  artifactKey: Guid(de5786f08e7d64a3482eea535342a402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Button.prefab using Guid(de5786f08e7d64a3482eea535342a402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f688b3a656f1411c985999a8a0399bea') in 0.129048 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001027 seconds.
+  path: Assets/Prefabs/Door1.prefab
+  artifactKey: Guid(77fba3f20de324d24ad5ad4e8ccb1290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Door1.prefab using Guid(77fba3f20de324d24ad5ad4e8ccb1290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab06abf5e9e95c0934d85713b16bab47') in 0.029208 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000720 seconds.
+  path: Assets/Prefabs/Firefly.prefab
+  artifactKey: Guid(837abc936b15e4b1f9a62c8e6e6c294f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Firefly.prefab using Guid(837abc936b15e4b1f9a62c8e6e6c294f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1e0670fd96a569a0eceb909094ae7f3') in 0.058339 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Prefabs/Door2.prefab
+  artifactKey: Guid(3f1cf8e15be274501b4aed7f2008d5df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Door2.prefab using Guid(3f1cf8e15be274501b4aed7f2008d5df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac90ae53c3e83e1f1ccf75d6f2442380') in 0.040786 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000564 seconds.
+  path: Assets/Prefabs/DudButton.prefab
+  artifactKey: Guid(eeb0cc07d14d44bad8341a68b9ff9d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/DudButton.prefab using Guid(eeb0cc07d14d44bad8341a68b9ff9d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45428cb43c1632cb2a9eefa779742ff5') in 0.027483 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001212 seconds.
+  path: Assets/Prefabs/Rock.prefab
+  artifactKey: Guid(14e977ff5d3c549b285b5997412ab7ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Rock.prefab using Guid(14e977ff5d3c549b285b5997412ab7ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08b4091faf812c08b3db1b03f88a5194') in 0.047929 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Prefabs/Door3.prefab
+  artifactKey: Guid(a8abc3d57fb0d496fbbb4d3b4d5fad95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Door3.prefab using Guid(a8abc3d57fb0d496fbbb4d3b4d5fad95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a210ddeb69690065a5a055b765fa268') in 0.031695 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.829316 seconds.
+  path: Assets/Prefabs/GameManager.prefab
+  artifactKey: Guid(f8dc053b792474551ba3524b9a2edfc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameManager.prefab using Guid(f8dc053b792474551ba3524b9a2edfc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01bbbebc2d07257ea7dca12f0ac5b804') in 0.016217 seconds 
