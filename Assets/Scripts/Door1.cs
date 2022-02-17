@@ -19,13 +19,11 @@ public class Door1 : MonoBehaviour
 
         if (button.GetComponent<Animator>().GetBool("pushed") == true)
         {
-            Debug.Log("Disappear");
             GetComponent<SpriteRenderer>().color = Color.Lerp(GetComponent<SpriteRenderer>().color, clearState, fadeSpeed * Time.deltaTime);
             GetComponent<BoxCollider2D>().enabled = false;
         }
         else
         {
-            Debug.Log("Appear");
             GetComponent<SpriteRenderer>().color = Color.Lerp(GetComponent<SpriteRenderer>().color, doorColor, fadeSpeed * Time.deltaTime);
             GetComponent<BoxCollider2D>().enabled = true;
         }

@@ -33,7 +33,7 @@ public class PlayerController : MonoBehaviour
     {
         x_input = Input.GetAxisRaw("Horizontal");
         y_input = Input.GetAxisRaw("Vertical");
-
+        
         Move();
     }
     #endregion
@@ -71,4 +71,6 @@ public class PlayerController : MonoBehaviour
         anim.SetFloat("DirY", currDirection.y);
     }
     #endregion
+
+    
 }
