@@ -7,14 +7,13 @@ using UnityEngine.EventSystems;
 public class LevelChanger : MonoBehaviour
 {
     public Animator animator;
-    public Button triggerButton;
 
     // Update is called once per frame
     void Update()
     {
         Vector3 mousePos = Input.mousePosition;
         if (Input.GetMouseButtonDown(0) && (mousePos.x > 738) && (mousePos.x < 915)
-            && (mousePos.y > 200) && (mousePos.y < 300))
+            && (mousePos.y > 200) && (mousePos.y < 300) && (SceneManager.GetActiveScene().name == "StartMenu"))
         {
             FadeToLevel();
         }
@@ -28,5 +27,10 @@ public class LevelChanger : MonoBehaviour
     public void OnFadeComplete()
     {
         SceneManager.LoadScene("SampleScene");
+    }
+
+    public void OnFadeComplete_End()
+    {
+        SceneManager.LoadScene("EndCutscene");
     }
 }
