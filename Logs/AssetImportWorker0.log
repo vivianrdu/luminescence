@@ -139,3 +139,137 @@ Received Import Request.
   path: Assets/Prefabs/GameManager.prefab
   artifactKey: Guid(f8dc053b792474551ba3524b9a2edfc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prefabs/GameManager.prefab using Guid(f8dc053b792474551ba3524b9a2edfc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01bbbebc2d07257ea7dca12f0ac5b804') in 0.016217 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008874 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.634 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4587 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 280.1 MB.
+System memory in use after: 280.2 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 5159.
+Total: 6.596057 ms (FindLiveObjects: 0.724174 ms CreateObjectMapping: 0.654376 ms MarkObjects: 5.053423 ms  DeleteObjects: 0.162294 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008830 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 2.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.415 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.12 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4586 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 280.4 MB.
+System memory in use after: 280.6 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 5175.
+Total: 4.326172 ms (FindLiveObjects: 0.425783 ms CreateObjectMapping: 0.303434 ms MarkObjects: 3.461099 ms  DeleteObjects: 0.134731 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 217.637605 seconds.
+  path: Assets/Scenes/StartMenu.unity
+  artifactKey: Guid(1e245267de9904fa380202160cf71e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/StartMenu.unity using Guid(1e245267de9904fa380202160cf71e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bff70aad97b15e93d55f91d040029cc8') in 0.085757 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 141.026044 seconds.
+  path: Assets/Scenes/EndCutscene.unity
+  artifactKey: Guid(29fba0685fc894a088b8cee2cf852e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/EndCutscene.unity using Guid(29fba0685fc894a088b8cee2cf852e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43682db3fe8a39cc7a5597f327286ea1') in 0.009274 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011301 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.12 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.234 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4586 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 280.9 MB.
+System memory in use after: 281.1 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 5191.
+Total: 4.613786 ms (FindLiveObjects: 0.512389 ms CreateObjectMapping: 0.375015 ms MarkObjects: 3.553548 ms  DeleteObjects: 0.171208 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.083272 seconds.
+  path: Assets/Scenes/Test.unity
+  artifactKey: Guid(226898289f4ae46489936ebf27c75f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Test.unity using Guid(226898289f4ae46489936ebf27c75f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9ce06e08e6c3c5d8ca592d1c2dfbde8') in 0.043254 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 212.686251 seconds.
+  path: Assets/Sprites/Door.png
+  artifactKey: Guid(8f06069157625455fb06d5218750ca40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Door.png using Guid(8f06069157625455fb06d5218750ca40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b99be7178c4f8637b712f1d351cc8a6') in 0.574223 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 119.901681 seconds.
+  path: Assets/Sprites/bat.png
+  artifactKey: Guid(3de0fe2403d814132a4e1290f217f704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bat.png using Guid(3de0fe2403d814132a4e1290f217f704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5dbeb9043c09757a34a6bdb260a6e21') in 0.044064 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010417 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.786 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 2.00 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4587 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 282.3 MB.
+System memory in use after: 282.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 5239.
+Total: 7.795406 ms (FindLiveObjects: 1.038401 ms CreateObjectMapping: 0.612776 ms MarkObjects: 5.764804 ms  DeleteObjects: 0.376712 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 141.247363 seconds.
+  path: Assets/Sprites/bat.png
+  artifactKey: Guid(3de0fe2403d814132a4e1290f217f704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bat.png using Guid(3de0fe2403d814132a4e1290f217f704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4359060ae5fd65ba747ca5ae5d9ba163') in 0.147193 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.675901 seconds.
+  path: Assets/Sprites/bat.png
+  artifactKey: Guid(3de0fe2403d814132a4e1290f217f704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/bat.png using Guid(3de0fe2403d814132a4e1290f217f704) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2def7e9f681bf92ec1c72b3c12715590') in 0.026405 seconds 
