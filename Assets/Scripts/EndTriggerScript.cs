@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class EndTriggerScript : MonoBehaviour
 {
-
     private void OnTriggerEnter2D(Collider2D coll)
     {
         if (coll.CompareTag("Player"))
