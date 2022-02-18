@@ -1132,3 +1132,61 @@ System memory in use after: 304.5 MB.
 Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 5831.
 Total: 6.713711 ms (FindLiveObjects: 0.624645 ms CreateObjectMapping: 0.439349 ms MarkObjects: 4.603300 ms  DeleteObjects: 1.044430 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 4038.822864 seconds.
+  path: Assets/Scripts/Dialogue.cs
+  artifactKey: Guid(3e05f54889a17428e83585c4e077d11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Dialogue.cs using Guid(3e05f54889a17428e83585c4e077d11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dec37f9dfd32b363e98db92108c4efe') in 0.502536 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009068 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 3.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.443 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4590 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 304.5 MB.
+System memory in use after: 304.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 5848.
+Total: 18.233885 ms (FindLiveObjects: 1.395686 ms CreateObjectMapping: 1.089197 ms MarkObjects: 14.551298 ms  DeleteObjects: 1.195577 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006300 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 3.17 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.384 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.09 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4590 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 305.0 MB.
+System memory in use after: 305.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 5864.
+Total: 8.099634 ms (FindLiveObjects: 1.061244 ms CreateObjectMapping: 0.720748 ms MarkObjects: 4.623080 ms  DeleteObjects: 1.693096 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 723.256367 seconds.
+  path: Assets/Sprites/Tiles/Wall.png
+  artifactKey: Guid(f9bea19df57ef4537b38b6ee3ffe2426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Wall.png using Guid(f9bea19df57ef4537b38b6ee3ffe2426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0c94fafec11786a8cb475f632035e96') in 0.499611 seconds 

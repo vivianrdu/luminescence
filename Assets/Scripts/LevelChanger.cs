@@ -14,15 +14,9 @@ public class LevelChanger : MonoBehaviour
         if (Input.GetMouseButtonDown(0) && (mousePos.x > 738) && (mousePos.x < 915)
             && (mousePos.y > 200) && (mousePos.y < 300) && (SceneManager.GetActiveScene().name == "StartMenu"))
         {
-            animator.SetBool("End", false);
             FadeToLevel();
         }
-        else if (Input.GetMouseButtonDown(0) && (mousePos.x > 700) && (mousePos.x < 900)
-            && (mousePos.y > 400) && (mousePos.y < 460) && (SceneManager.GetActiveScene().name == "EndCutscene"))
-        {
-            animator.SetBool("End", true);
-            FadeToLevel();
-        }
+
     }
 
     public void FadeToLevel()
