@@ -964,3 +964,50 @@ System memory in use after: 301.4 MB.
 Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 5719.
 Total: 6.533917 ms (FindLiveObjects: 0.734815 ms CreateObjectMapping: 0.426740 ms MarkObjects: 5.184951 ms  DeleteObjects: 0.185874 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.028158 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/viviandu/Desktop/Unity Projects/Project2/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.058 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4589 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 301.5 MB.
+System memory in use after: 301.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 5735.
+Total: 7.818651 ms (FindLiveObjects: 1.681352 ms CreateObjectMapping: 0.669827 ms MarkObjects: 5.155758 ms  DeleteObjects: 0.309246 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 521.218994 seconds.
+  path: Assets/Animations/Player/idle_east.anim
+  artifactKey: Guid(e4ee25c9dc7104b58b16134a3a493640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Player/idle_east.anim using Guid(e4ee25c9dc7104b58b16134a3a493640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b767fcc0595da1dc41cc7453065a66d0') in 0.038230 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.177738 seconds.
+  path: Assets/Animations/Player/idle_south.anim
+  artifactKey: Guid(7d9f2e21eb44248d6bd3437a8ec2e318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Player/idle_south.anim using Guid(7d9f2e21eb44248d6bd3437a8ec2e318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb4fd60f73e32f8ce5a04dc497dea109') in 0.005637 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.186442 seconds.
+  path: Assets/Animations/Player/idle_west.anim
+  artifactKey: Guid(939ed02d21d1c4ac284c4505052004dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Player/idle_west.anim using Guid(939ed02d21d1c4ac284c4505052004dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '534315cdc645c7d882414c643c2f268f') in 0.006214 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.506542 seconds.
+  path: Assets/Animations/Player/idle_north.anim
+  artifactKey: Guid(10279e389ff3344709ea2c13dd94b468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Player/idle_north.anim using Guid(10279e389ff3344709ea2c13dd94b468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54c9f55f90418f79a88fed3c4c038e66') in 0.004610 seconds 
