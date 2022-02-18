@@ -45,7 +45,7 @@ public class Bat : MonoBehaviour
         RaycastHit2D[] hits = Physics2D.CircleCastAll(transform.position, batRadius, Vector2.zero);
         foreach (RaycastHit2D hit in hits)
         {
-            if (hit.transform.CompareTag("Player") && (hit.transform.GetComponentInChildren<Light2D>().pointLightOuterRadius == 12))
+            if (hit.transform.CompareTag("Player") && (hit.transform.GetComponentInChildren<Light2D>().pointLightOuterRadius >= 12))
             {
                 Destroy(this.gameObject);
                 Debug.Log("Bat flew away");
